@@ -1,0 +1,16 @@
+{
+  "employee1": {
+    "name": "John Doe",
+    "id": "EMP-2001",
+    "email": "john.doe@test.com",
+    "department": "Engineering",
+    "supervisor": "Jane Smith"
+  },
+  "employee2": {
+    "name": "Jane Doe",
+    "id": "EMP-2002",
+    "email": "jane.doe@test.com",
+    "department": "HR",
+    "supervisor": "Mark Lee"
+  }
+}
